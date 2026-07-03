@@ -7,12 +7,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <a
-          className="Modifica TRIGGERRRRRRRRRRRR"
+          className="App-link"
           href="https://example.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Jenkins on Udemy
+          PROVAAAAAAAAAA
         </a>
       </header>
       <p>
