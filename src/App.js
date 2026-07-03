@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <a
-          className="App-link"
+          className="Modifica TRIGGERRRRRRRRRRRR"
           href="https://example.com"
           target="_blank"
           rel="noopener noreferrer"
